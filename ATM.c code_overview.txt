@@ -1,0 +1,58 @@
+Title: Card Management System
+
+Description:
+The "Card Management System" is a C program that simulates a basic banking application. It allows users to interact with their virtual bank account by entering their card number and a predefined PIN. Users can perform operations such as checking the card type, verifying the PIN, checking the account balance, making deposits, and withdrawing money.
+
+Features:
+1. Card Identification:
+   - The program identifies the type of card based on the first digit of the entered card number and its length.
+   - Supported card types are Visa, Mastercard, American Express, and Discover.
+
+2. PIN Verification:
+   - Users are required to enter a predefined PIN (55555) to access their account.
+   - The program validates the correctness of the entered PIN.
+
+3. Account Balance:
+   - After successful PIN verification, users can view their account balance.
+   - The account balance is randomly generated for demonstration purposes.
+
+4. Deposits:
+   - Users can deposit money into their account.
+   - The program allows users to specify the amount to deposit, and the new balance is updated accordingly.
+
+5. Withdrawals:
+   - Users can withdraw money from their account.
+   - The program checks if the requested withdrawal amount is available in the account balance and updates the balance accordingly.
+   - It prevents users from withdrawing more money than they have in their account.
+
+Advantages:
+1. Simple and Easy to Use:
+   - The program provides a straightforward user interface, making it easy for users to interact with their virtual account.
+
+2. Learning and Educational:
+   - This project serves as a valuable learning tool for those new to programming in C.
+   - It covers essential concepts such as input/output, conditional statements, loops, and string manipulation.
+
+3. Customizable:
+   - Developers can extend this program by adding additional features, such as implementing user account authentication or saving user data to a file.
+
+4. Real-world Application:
+   - While this is a basic simulation, similar logic is used in real-world banking applications for card verification and transaction processing.
+
+5. Random Account Balance:
+   - The program generates a random account balance to simulate real-life scenarios.
+   - This helps users understand how to handle different account balances during deposits and withdrawals.
+
+Please Note:
+- This program is intended for educational and illustrative purposes only.
+- It does not incorporate actual security features used in real banking applications and should not be used for actual financial transactions.
+
+Usage:
+1. Enter your card number when prompted.
+2. Enter the PIN as 55555.
+3. The program will verify your card type and PIN.
+4. Upon successful verification, you can choose to deposit or withdraw money from your account.
+5. The account balance will be updated accordingly after each transaction.
+
+For any questions or feedback, please contact [vedoxyno@gmail.com].
+
