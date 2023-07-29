@@ -1,0 +1,53 @@
+Description:
+The "Basic Calculator Program" is a simple C program that allows users to perform basic arithmetic operations on a given number. The user is prompted to enter a real number, and then they can choose from various operations such as addition, subtraction, multiplication, division, square root, and cube. The program then performs the selected operation and displays the result.
+
+Features:
+
+User Input:
+
+The program takes user input for the initial number on which the operations are to be performed.
+It validates the input to ensure that a valid real number is entered.
+Arithmetic Operations:
+
+The program supports the following arithmetic operations:
+Addition: Adds the initial number to a second number entered by the user.
+Subtraction: Subtracts a second number from the initial number.
+Multiplication: Multiplies the initial number by a second number.
+Division: Divides the initial number by a non-zero second number.
+Square Root: Calculates the square root of the initial number.
+Cube: Calculates the cube of the initial number.
+Error Handling:
+
+The program handles invalid user inputs gracefully and provides appropriate error messages.
+It prevents division by zero, which is not allowed in mathematics.
+Output Format:
+
+The program displays the results of the arithmetic operations in a clear and formatted manner.
+It shows the operands and the corresponding result for each operation.
+Advantages:
+
+User-Friendly:
+
+The program provides a user-friendly interface, guiding users to enter their desired operations clearly.
+Versatile:
+
+The calculator supports basic arithmetic as well as advanced operations like square root and cube.
+Learning Tool:
+
+This program serves as an excellent learning tool for beginners to practice using conditional statements and mathematical functions in C.
+Quick and Efficient:
+
+Users can perform multiple operations in one run of the program, making it efficient for quick calculations.
+Usage:
+
+Enter a real number when prompted.
+Choose the desired operation from the given options: addition, subtraction, multiplication, division, square root, or cube.
+Depending on the selected operation, enter a second number if required.
+The program will display the result of the chosen operation.
+Please Note:
+
+The "Basic Calculator Program" is intended for educational purposes only.
+It is a simplified version and may not cover all edge cases or provide extensive error handling for all scenarios.
+For any questions or feedback, please contact [vedoxyno@gmail.com].
+
+This is just a sample text describing the program's functionality and advantages. Feel free to modify and expand on it according to your specific needs and audience.
